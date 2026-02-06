@@ -1,5 +1,6 @@
 # Podfile
 source 'https://github.com/web2app-bi4sight/Specs.git' # Huntmobi私有源，必须放在首位
+
 source 'https://cdn.cocoapods.org/' # CocoaPods官方CDN源
 
 target 'YourApp' do
